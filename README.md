@@ -90,4 +90,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 ## LICENSE
-[MIT License](https://kambale.dev)
+[MIT License](https://github.com/GDG-Cloud-Mbarara/devfestmbarara.com/blob/main/LICENSE)
