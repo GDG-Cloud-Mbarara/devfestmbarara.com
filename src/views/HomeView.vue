@@ -16,10 +16,6 @@
     <homesponsors class="mt-10"/>
     <!-- Sponsors -->
 
-    <!-- CommunityJoin -->
-    <!-- <communityJoinVue/> -->
-    <!-- CommunityJoin -->
-
   </v-main>
 </template>
 
@@ -28,7 +24,6 @@ import heroVue from "@/components/home/hero.vue";
 import overviewVue from '@/components/home/overview.vue';
 import technologiesVue from '@/components/home/technologies.vue';
 import homesponsors from '@/components/home/homeSponsors.vue';
-// import communityJoinVue from '@/components/home/communityJoin.vue';
 
 export default {
   name: "HomePage",
@@ -37,7 +32,6 @@ export default {
     overviewVue,
     technologiesVue,
     homesponsors
-    // communityJoinVue
   },
   data: () => ({
     
