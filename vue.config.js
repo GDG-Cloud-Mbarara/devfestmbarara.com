@@ -13,5 +13,5 @@ module.exports = defineConfig({
     appleMobileWebAppCapable: 'yes',
     appleMobileWebAppStatusBarStyle: 'black',
   },
-  publicPath: process.env.NODE_ENV === "production" ? "/devfestmbarara.com/" : "/"
+  publicPath: "/"
 });
