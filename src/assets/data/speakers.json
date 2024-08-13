@@ -1,0 +1,18 @@
+[
+    {
+        "id": "101",
+        "name": "Wesley Kambale",
+        "company": {
+            "name": "Spartan Technologies, Inc.",
+            "designation": "Tech Lead"
+        },
+        "community_title": "ML Engineer | Community Lead",
+        "image": "wesley-kambale.jpg",
+        "bio": "Wesley is a machine learning engineer and data scientist, adept at crafting production-ready ML systems that provide impactful solutions in the African market.",
+        "social": {
+            "linkedin": "WesKambale",
+            "twitter": "WesKambale",
+            "web": "kambale.dev"
+        }
+    }
+]

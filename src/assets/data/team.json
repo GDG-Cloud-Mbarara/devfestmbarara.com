@@ -1,0 +1,19 @@
+[
+    {
+        "id": "6001",
+        "name": "Wesley Kambale",
+        "company": {
+            "name": "agprop",
+            "designation": "Tech Lead"
+        },
+        "community_title": "Google Developer Expert for Firebase & Web",
+        "image": "",
+        "bio": "Wesley is a machine learning engineer and data scientist, adept at crafting production-ready ML systems that provide impactful solutions in the African market.",
+        "social": {
+            "linkedin": "asd",
+            "twitter": "asd",
+            "web": "asd"
+        },
+        "type":"Core"
+    }
+]

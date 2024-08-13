@@ -1,0 +1,27 @@
+[
+    {
+        "category_name": "Gold Sponsors",
+        "sponsors": [
+            {
+                "name":"Google",
+                "link": "https://google.com",
+                "logo": "google-final.png"   
+            },
+            {
+                "name":"The Innovation Village",
+                "link": "https://innovationvillage.africa",
+                "logo": "tiv-final.png"   
+            }
+        ]
+    },
+    {
+        "category_name": "Expo Sponsors",
+        "sponsors": [
+            {
+                "name":"Kreative Campus",
+                "link": "https://kreativecampus.org/",
+                "logo": "kreativecampus-final.png"   
+            }
+        ]
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1001",
+        "slide": "",
+        "title": "Community Keynote",
+        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
+        "track": "Web",
+        "link": "https://www.youtube.com/embed/SYQa0pqoPWA?si=PTsrvHcgN23ffbYJ",
+        "time": "09:00 AM to 09:3 PM (EAT)",
+        "format": "Day 1",
+        "date": "November 23, 2024",
+        "timeDuration": "40",
+        "speakers": [
+            101
+        ]
+    }
+]

@@ -1,0 +1,75 @@
+{
+  "name":"DevFest Mbarara",
+  "logo": "assets/img/df24mbralogosmall.png",
+  "cover_image":"cover.png",
+  "desc": {
+    "short": "DevFest Mbarara is an annual tech conference hosted by GDG Cloud Mbarara. DevFest Mbarara 2024 will bring together local developers to expand opportunities and elevate the knowledge of the latest Google developer technologies.",
+    "long": "DevFest Mbarara 2024 will bring together local developers to expand opportunities and elevate the knowledge of the latest Google developer tools and explore how to use Google technologies to generate social and economic impact with carefully selected tech talks, the best industry experts presenting the exciting topics, and a world-class conference experience. Be a part of this unique community moment in 2024, and join the DevFest movement happening over one epic weekend."
+  },
+  "hashtags": [
+    "DevFest2024",
+    "CommunityName"
+  ],
+  "date": "November 23, 2024",
+  "time": "08:00 am EAT",
+  "venue": {
+    "name": "To be confirmed",
+    "address": "To be confirmed",
+    "city": "",
+    "pincode": "",
+    "map": ""
+  },
+  "registration": {
+    "link":"https://bit.ly/dfmbra24",
+    "status": "1"
+  },
+  "call_for_speakers": {
+    "status": "1",
+    "link": "https://bit.ly/DFMbra24-Speakers",
+    "lastdate": "Oct 30, 2024"
+  },
+  "stats": [
+    {
+      "name": "Tracks",
+      "value": "4"
+    },
+    {
+      "name": "Speakers",
+      "value": "25"
+    },
+    {
+      "name": "Participants",
+      "value": "500"
+    },
+    {
+      "name": "Sessions",
+      "value": "10"
+    },
+    {
+      "name": "Day",
+      "value": "1"
+    },
+    {
+      "name": "Workshops",
+      "value": "12"
+    }
+  ],
+  "what_to_expect": [
+    {
+      "label": "AI/ML",
+      "value": "Discover Google's latest AI tools in action and learn about TensorFlow, Keras, the Gemini API, Google AI Studio, Gemma, and more."
+    },
+    {
+      "label": "Web",
+      "value": "Learn about latest Angular features, new ChromeOS capabilities, browser features and how Baseline makes browser support easier."
+    },
+    {
+      "label": "Mobile",
+      "value": "Get the latest in Android development covering GenAI, Android 15, form factors, Jetpack, Compose, tooling, performance."
+    },
+    {
+      "label": "Cloud",
+      "value": "Learn about the latest tools and updates enabling developers to learn, build, and do more on Google Cloud and Workspace."
+    }
+  ]
+}
