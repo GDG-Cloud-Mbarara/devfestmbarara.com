@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "devfestmbarara",
+    "staging": "devfestmbarara"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
