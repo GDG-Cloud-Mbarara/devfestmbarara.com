@@ -56,6 +56,7 @@
       <v-btn
         color="black"
         dark
+        rounded
         class="mr-2"
         :href="devfestInfo.registration.link"
         target="_blank"
@@ -67,11 +68,12 @@
       <v-btn
         color="black"
         dark
+        rounded
         href="#"
         target="_blank"
         style="text-transform: none; font-size: 14px; font-weight: 500;"
       >
-        Sponsor
+        Sponsor Us
       </v-btn>
     </div>
   </v-app-bar>

@@ -23,7 +23,8 @@
     <v-row justify="center" class="mt-4">
       <v-btn 
         color="black" 
-        dark 
+        dark
+        rounded
         class="d-block text-center" 
         href="#" 
         target="_blank"

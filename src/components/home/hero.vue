@@ -4,7 +4,7 @@
     <v-row justify="center" align="center">
       <v-col md="12">
         <v-img
-          max-height="380"
+          max-height="320"
           style="border-radius: 15px"
           :src="require('@/assets/img/cover.png')"
         ></v-img>
@@ -19,7 +19,7 @@
           class="google-font gdg-h1 mb-4 grey--text text--darken-4"
           style="font-size: 200%; line-height: 40px"
         >
-          DevFest Mbarara 2024 by <br />
+          DevFest Mbarara 2024 is back! <br />
           <span style="color: #4285f4">{{ communityInfo.community_name }}</span>
         </p>
         <p class="google-font mt-3 mb-0" style="font-size: 19px">
@@ -37,6 +37,7 @@
         <v-btn
           dark
           depressed
+          rounded
           color="black"
           :href="devfestInfo.registration.link"
           v-if="devfestInfo.registration.status == 1"
