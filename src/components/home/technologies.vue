@@ -49,7 +49,6 @@ export default {
       'df23img5.png',
       'df23img6.png',
       'df23img7.png',
-      // Add more image filenames here
     ],
     scrollPosition: 0,
     autoScroll: null,
