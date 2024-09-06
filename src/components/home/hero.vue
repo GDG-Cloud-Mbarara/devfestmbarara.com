@@ -51,25 +51,25 @@
     <v-row justify="center" align="center">
       <v-col md="6" cols="12" class="pa-2">
         <v-img
-          :src="require('@/assets/img/df23imgs/df23img1.png')"
+          :src="require('@/assets/img/df23imgs/df23img1.jpg')"
           class="image-style 1"
         ></v-img>
       </v-col>
       <v-col md="6" cols="12" class="pa-2">
         <v-img
-          :src="require('@/assets/img/df23imgs/df23img2.png')"
+          :src="require('@/assets/img/df23imgs/df23img2.jpg')"
           class="image-style second-image"
         ></v-img>
       </v-col>
       <v-col md="6" cols="12" class="pa-2">
         <v-img
-          :src="require('@/assets/img/df23imgs/df23img3.png')"
+          :src="require('@/assets/img/df23imgs/df23img3.jpg')"
           class="image-style 3"
         ></v-img>
       </v-col>
       <v-col md="6" cols="12" class="pa-2">
         <v-img
-          :src="require('@/assets/img/df23imgs/df23img4.png')"
+          :src="require('@/assets/img/df23imgs/df23img4.jpg')"
           class="image-style fourth-image"
         ></v-img>
       </v-col>
