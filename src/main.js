@@ -1,3 +1,4 @@
+import '@mdi/font/css/materialdesignicons.css' // Add this line
 import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
@@ -12,4 +13,4 @@ new Vue({
   store,
   vuetify,
   render: h => h(App)
-}).$mount('#app')
+}).$mount('#app');
