@@ -15,12 +15,37 @@
         ]
     },
     {
-        "category_name": "Expo Sponsors",
+        "category_name": "Media Partners",
         "sponsors": [
             {
                 "name":"Kreative Campus",
                 "link": "https://kreativecampus.org/",
                 "logo": "kreativecampus-final.png"   
+            }
+        ]
+    },
+    {
+        "category_name": "Communities",
+        "sponsors": [
+            {
+                "name":"WTM Mbarara",
+                "link": "https://x.com/WTMMbarara/",
+                "logo": "wtm-mbra.png"   
+            },
+            {
+                "name":"GDSC Mbarara University",
+                "link": "https://gdsc.community.dev/mbarara-university-of-science-technology-mbarara-uganda/",
+                "logo": "gdsc-must.png"   
+            },
+            {
+                "name":"GDSC Kabale University",
+                "link": "https://gdsc.community.dev/kabale-university-kabale-uganda/",
+                "logo": "gdsc-kab.png"   
+            },
+            {
+                "name":"GDSC Kampala International University",
+                "link": "https://gdsc.community.dev/kampala-international-university-kampala-uganda/",
+                "logo": "gdsc-kiu.png"   
             }
         ]
     }

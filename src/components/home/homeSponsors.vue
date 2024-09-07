@@ -1,7 +1,7 @@
 <template>
   <v-container fluid class="google-font text-center">
     <v-row class="my-0 justify-center">
-      <v-col md="8" class="text-center">
+      <v-col md="12" class="text-center">
         <p
           class="google-font gdg-h1 mb-2 grey--text text--darken-4"
           style="font-size: 220%"
