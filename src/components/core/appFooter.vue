@@ -22,9 +22,9 @@
           <div class="d-flex flex-column align-start" style="font-size: 14px;">
             <a href="https://policies.google.com/privacy" class="mb-2 text-decoration-line">Privacy Policy</a>
             <a href="https://developers.google.com/community-guidelines" class="mb-2 text-decoration-line">Community Guidelines</a>
-            <a href="https://gdg.community.dev/gdg-cloud-mbarara/" class="mb-2 text-decoration-line">Join the Community</a>
             <a href="https://developers.google.com/community/gdg" class="mb-2 text-decoration-line">The GDG Program</a>
             <a href="https://www.womentechmakers.com/" class="mb-2 text-decoration-line">The WTM Program</a>
+            <a href="https://gdg.community.dev/gdg-cloud-mbarara/" class="mb-2 text-decoration-line">Join the Community</a>
           </div>
         </v-col>
 
@@ -52,7 +52,7 @@
                 <v-icon left>mdi-email</v-icon>
               </v-col>
               <v-col>
-                <span>info@devfestmbarara.com</span>
+                <span><a href="mailto:gdgcloudmbarara@gmail.com">gdgcloudmbarara@gmail.com</a></span>
               </v-col>
             </v-row>
             <p class="mb-2" style="font-size: 14px;">Follow us on:</p>
@@ -67,7 +67,7 @@
 
       <v-row justify="center" class="mt-4">
         <v-col cols="12" class="text-center">
-          <p class="caption" style="font-size: 12px;">2024 &copy; GDG Cloud Mbarara. All Rights Reserved.</p>
+          <p class="caption" style="font-size: 14px;">2024 &copy; GDG Cloud Mbarara. All Rights Reserved.</p>
         </v-col>
       </v-row>
     </v-container>
@@ -80,11 +80,11 @@ export default {
   data() {
     return {
       socialLinks: [
-        { icon: 'mdi-twitter', link: 'https://x.com/GDGCloudMbarara', color: '#1DA1F2' },
-        { icon: 'mdi-instagram', link: 'https://www.instagram.com/GDGCloudMbarara', color: '#E1306C' },
-        { icon: 'mdi-linkedin', link: 'https://www.linkedin.com/company/GDGCloudMbarara', color: '#0077B5' },
-        { icon: 'mdi-youtube', link: 'https://www.youtube.com/@GDGCloudMbarara', color: '#FF0000' },
-        { icon: 'mdi-github', link: 'https://github.com/GDG-Cloud-Mbarara', color: '#000000' }
+        { icon: 'mdi-twitter', link: 'https://x.com/GDGCloudMbarara', color: '#1e1e1e' },
+        { icon: 'mdi-instagram', link: 'https://instagram.com/GDGCloudMbarara', color: '#1e1e1e' },
+        { icon: 'mdi-linkedin', link: 'https://linkedin.com/company/GDGCloudMbarara', color: '#1e1e1e' },
+        { icon: 'mdi-youtube', link: 'https://youtube.com/@GDGCloudMbarara', color: '#1e1e1e' },
+        { icon: 'mdi-github', link: 'https://github.com/GDG-Cloud-Mbarara', color: '#1e1e1e' }
       ]
     }
   }

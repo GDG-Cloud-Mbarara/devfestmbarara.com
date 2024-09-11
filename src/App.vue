@@ -1,20 +1,20 @@
 <template>
-  <v-app style="background-color: #F0F0F0">
-    <appToolbarVue/>
-    <appDrawerVue/>
+  <v-app style="background-color: #F0F0F0"> 
+    <appToolbarVue />
+    <appDrawerVue />
     <v-main class="">
       <v-container fluid>
         <v-row justify="center" align="center">
           <v-col md="10">
             <v-slide-y-reverse-transition>
-            <router-view v-show="show"/>
-          </v-slide-y-reverse-transition>
+              <router-view v-show="show" />
+            </v-slide-y-reverse-transition>
           </v-col>
         </v-row>
       </v-container>
-     
+
     </v-main>
-    <appFooterVue/>
+    <appFooterVue />
   </v-app>
 </template>
 
@@ -24,7 +24,7 @@ import appFooterVue from './components/core/appFooter.vue';
 import appToolbarVue from './components/core/appToolbar.vue';
 export default {
   name: 'App',
-  components:{
+  components: {
     appToolbarVue,
     appFooterVue,
     appDrawerVue

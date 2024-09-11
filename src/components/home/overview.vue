@@ -1,7 +1,7 @@
 <template>
   <v-container fluid class="google-font" >
     <v-row justify="center" align="center" class="px-2" >
-      <v-col md="12" class="pa-md-10 pa-5" style="background-color: white; border-radius: 15px">
+      <v-col md="12" class="pa-md-10 pa-5" style="background-color:  #ffe7a5; border-radius: 15px">
         <p
           class="google-font gdg-h1 mb-2 grey--text text--darken-4"
           style="font-size: 220%"
@@ -28,7 +28,7 @@
             >
               <div
                 class="pa-md-6 pa-4"
-                style="background-color: #E8F1FB;border-radius: 12px;"
+                style="background-color: #c3ecf6;border-radius: 12px;"
               >
                 <p style="font-size: 20px; font-weight: 600" class="mt-4">
                   {{ item.label }}

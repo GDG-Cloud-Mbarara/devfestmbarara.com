@@ -12,7 +12,8 @@
   ],
   "date": "November 23, 2024",
   "time": "08:00 am EAT",
-  "venue": {
+  "venue": "Coming soon!",
+  "venue1": {
     "name": "To be confirmed",
     "address": "To be confirmed",
     "city": "",
@@ -69,7 +70,7 @@
     },
     {
       "label": "Cloud",
-      "value": "Learn about the latest tools and updates enabling developers to learn, build, and do more on Google Cloud and Workspace."
+      "value": "Learn about the latest tools and updates enabling developers to learn, build, and do more on Google Cloud and Google Workspace."
     }
   ]
 }
