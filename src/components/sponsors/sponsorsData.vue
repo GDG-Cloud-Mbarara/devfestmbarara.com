@@ -9,14 +9,14 @@
         <b>{{ item.category_name }}</b>
       </v-col>
       <v-col
-        md="2"
+        md="3"
         cols="6"
         sm="3"
         class="text-center"
         v-for="(sponsor, indexp) in item.sponsors"
         :key="indexp"
       >
-        <div style="border-radius: 15px" class="pa-6">
+        <div style="border-radius: 15px" class="pa-3">
           <v-tooltip bottom>
             <template v-slot:activator="{ on, attrs }">
               <a :href="sponsor.link" target="_blank" v-bind="attrs" v-on="on">

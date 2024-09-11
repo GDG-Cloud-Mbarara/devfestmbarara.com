@@ -3,7 +3,7 @@
     elevate-on-scroll
     fixed
     app
-    elevation="3"
+    elevation="2"
     class="mt-md-4 mt-sm-4 mx-sm-6 mx-md-auto"
     style="
       background-color: white;
@@ -29,7 +29,7 @@
         <v-img
           max-width="150"
           :src="require('@/assets/img/df24mbralogosmall.png')"
-          alt="DevFest Mbarara"
+          alt="DevFest Mbarara 2024"
         ></v-img>
       </router-link>
     </v-toolbar-title>
@@ -87,12 +87,13 @@ export default {
   data: () => ({
     pages: navbarJSON,
     devfestInfo: devfestJSON,
-  }),
-  methods: {
-    toggleDrawer() {
-      this.$store.commit("TOGGLE_DRAWER");
-    },
-  },
+  })
+  // ,
+  // methods: {
+  //   toggleDrawer() {
+  //     this.$store.commit("TOGGLE_DRAWER");
+  //   },
+  // },
 };
 </script>
 

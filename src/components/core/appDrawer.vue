@@ -1,4 +1,4 @@
-  
+<!--   
 <template>
   <v-navigation-drawer v-model="drawer" app width="300px" temporary>
     <v-list-item>
@@ -45,4 +45,4 @@ export default {
 };
 </script>
   
-  <style></style>
+  <style></style> -->
