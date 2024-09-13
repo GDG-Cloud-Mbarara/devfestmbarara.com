@@ -16,13 +16,13 @@
           <!-- <span style="color: #4285f4">{{ communityInfo.community_name }}</span> -->
         </p>
         <p class="google-font mt-3 mb-0" style="font-size: 19px">
-          <v-icon>mdi-calendar-month</v-icon> {{ devfestInfo.date }}
+          <v-icon color="#1e1e1e">mdi-calendar-month</v-icon> {{ devfestInfo.date }}
         </p>
         <p class="google-font mt-0 mb-0" style="font-size: 19px">
-          <v-icon>mdi-clock-time-eight-outline</v-icon> {{ devfestInfo.time }}
+          <v-icon color="#1e1e1e">mdi-clock-time-eight-outline</v-icon> {{ devfestInfo.time }}
         </p>
         <p class="google-font mt-0" style="font-size: 19px">
-          <v-icon>mdi-map-marker</v-icon> {{ devfestInfo.venue }}
+          <v-icon color="#1e1e1e">mdi-map-marker</v-icon> {{ devfestInfo.venue }}
         </p>
         <p class="google-font text--secondary" style="font-weight: 500; font-size: 18px">
           {{ devfestInfo.desc.short }}

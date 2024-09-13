@@ -36,20 +36,6 @@
 
     <v-spacer></v-spacer>
 
-    <!-- <div class="hidden-sm-and-down google-font d-flex align-center">
-      <template v-for="(page, index) in pages">
-        <v-btn
-          text
-          :key="index"
-          class="mx-0"
-          color="black"
-          :to="page.path"
-          v-if="page.visible == 1"
-          style="text-transform: none; font-size: 14px; font-weight: 500"
-        >{{ page.name }}</v-btn>
-      </template>
-    </div> -->
-
     <v-spacer></v-spacer>
 
     <div class="hidden-sm-and-down google-font d-flex">
@@ -102,3 +88,17 @@ export default {
   letter-spacing: normal;
 }
 </style>
+
+  <!-- <div class="hidden-sm-and-down google-font d-flex align-center">
+      <template v-for="(page, index) in pages">
+        <v-btn
+          text
+          :key="index"
+          class="mx-0"
+          color="black"
+          :to="page.path"
+          v-if="page.visible == 1"
+          style="text-transform: none; font-size: 14px; font-weight: 500"
+        >{{ page.name }}</v-btn>
+      </template>
+    </div> -->
