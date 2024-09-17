@@ -33,7 +33,7 @@
           <p>Sign up early to become one of our launch sponsors with extra exposure!</p>
           <v-card outlined class="my-4">
             <v-card-title class="google-font">Bronze</v-card-title>
-            <v-card-subtitle>$ 2,000</v-card-subtitle>
+            <v-card-subtitle>$200</v-card-subtitle>
             <v-card-text>
               <ul>
                 <li>Distribute swag</li>
@@ -45,7 +45,7 @@
   
           <v-card outlined class="my-4">
             <v-card-title class="google-font">Silver</v-card-title>
-            <v-card-subtitle>$ 5,000</v-card-subtitle>
+            <v-card-subtitle>$500</v-card-subtitle>
             <v-card-text>
               <ul>
                 <li>Bronze package</li>
@@ -60,7 +60,7 @@
   
           <v-card outlined class="my-4">
             <v-card-title class="google-font">Gold</v-card-title>
-            <v-card-subtitle>$ 10,000</v-card-subtitle>
+            <v-card-subtitle>$1,000</v-card-subtitle>
             <v-card-text>
               <ul>
                 <li>Silver package</li>
@@ -72,7 +72,7 @@
   
           <v-card outlined class="my-4">
             <v-card-title class="google-font">Platinum</v-card-title>
-            <v-card-subtitle>$ 15,000</v-card-subtitle>
+            <v-card-subtitle>$1,500</v-card-subtitle>
             <v-card-text>
               <ul>
                 <li>Gold package</li>
@@ -148,7 +148,7 @@
             View Our Prospectus
           </v-btn>
           <h3 class="google-font headline mb-4">Contact Us</h3>
-          <p>Interested in sponsoring? Reach out to us via devfestmbara@gmail.com or contact us below:</p>
+          <p>Interested in sponsoring? Reach out to us via gdgcloudmbarara@gmail.com or contact us below:</p>
           <v-form>
             <v-text-field label="Your Name" outlined></v-text-field>
             <v-text-field label="Email" outlined></v-text-field>
