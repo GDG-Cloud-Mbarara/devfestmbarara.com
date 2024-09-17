@@ -33,7 +33,7 @@
           <div class="d-flex flex-column align-start">
             <v-row no-gutters align="center" class="mb-2" style="font-size: 14px;">
               <v-col cols="auto">
-                <v-icon left>mdi-map-marker</v-icon>
+                <v-icon left color="#1e1e1e">mdi-map-marker</v-icon>
               </v-col>
               <v-col>
                 <span>TIV, Mbarara, Uganda</span>
@@ -41,7 +41,7 @@
             </v-row>
             <v-row no-gutters align="center" class="mb-2" style="font-size: 14px;">
               <v-col cols="auto">
-                <v-icon left>mdi-phone</v-icon>
+                <v-icon left color="#1e1e1e">mdi-phone</v-icon>
               </v-col>
               <v-col>
                 <span>+256 784 912769</span>
@@ -49,7 +49,7 @@
             </v-row>
             <v-row no-gutters align="center" class="mb-4" style="font-size: 14px;">
               <v-col cols="auto">
-                <v-icon left>mdi-email</v-icon>
+                <v-icon left color="#1e1e1e">mdi-email</v-icon>
               </v-col>
               <v-col>
                 <span><a href="mailto:gdgcloudmbarara@gmail.com">gdgcloudmbarara@gmail.com</a></span>
