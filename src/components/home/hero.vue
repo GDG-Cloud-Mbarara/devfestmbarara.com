@@ -28,7 +28,7 @@
           {{ devfestInfo.desc.short }}
         </p>
         <v-btn dark depressed rounded color="black" :href="devfestInfo.registration.link"
-          v-if="devfestInfo.registration.status == 1" target="_blank">Apply to Speak
+          v-if="devfestInfo.registration.status == 1" target="_blank">Register
         </v-btn>
       </v-col>
 

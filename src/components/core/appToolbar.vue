@@ -49,7 +49,7 @@
         v-if="devfestInfo.registration.status == 1"
         style="text-transform: none; font-size: 14px; font-weight: 500;"
       >
-        Apply to Speak
+        Register
       </v-btn>
       <v-btn
         color="black"
